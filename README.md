@@ -44,6 +44,8 @@ I wrote a Python script (<i>log_analysis.py</i>) to automatically scan the log f
 Matching lines were added to a list and exported to CSV for further analysis.
 <br/><br/>
 <img width="1084" height="672" alt="image" src="https://github.com/user-attachments/assets/081eb501-a445-4178-9fc8-4d94d6f37800" />
+<img width="945" height="320" alt="image" src="https://github.com/user-attachments/assets/c9b84ddd-0a1d-4891-bc7b-2ec9b4f665ff" />
+
 
 <br />
 <br />
